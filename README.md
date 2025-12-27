@@ -1,6 +1,6 @@
 ![logo](https://github.com/om-369/om-369/blob/main/Blue%20Geometric%20Technology%20General%20Professional%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Om Wankhede</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate Data Scientist | ML Engineer | AI Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/om-369/om-369/blob/main/coding.gif">
 
@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Gen AI Project**
+- 👯 I’m looking to collaborate on **Gen AI | AGENTIC AI | AI Agents Project**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/omwankhede](www.linkedin.com/in/omwankhede)
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/om-wankhede352](www.linkedin.com/in/om-wankhede352)
 
-- 📫 How to reach me **omwankhede369@gmail.com**
+- 📫 How to reach me **wankhedeo352@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/omwankhede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omwankhede" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/om-wankhede352" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omwankhede" height="30" width="40" /></a>
 <a href="https://kaggle.com/om wankhede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="om wankhede" height="30" width="40" /></a>
 </p>
 
